@@ -14,5 +14,6 @@ public class App
     public static void main(String[] args)
     {
         System.out.println("com.mycompany.provagit.App.main()");
+        System.out.println("com.mycompany.provagit.App.main()");
     }
 }
